@@ -36,7 +36,7 @@
     "class-validator": "^0.12.2",
     "express": "^4.17.1",
     "graphql": "^15.3.0",
-    "mongodb": "^3.5.9",
+    "mongodb": "^3.7.1",
     "mongoose": "^5.9.25",
     "reflect-metadata": "^0.1.13",
     "type-graphql": "^1.0.0-rc.3"
